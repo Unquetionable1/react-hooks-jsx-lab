@@ -9,7 +9,7 @@ function Home() {
   return (
     <div id="home">
       <h1 style={hstyle}>
-        {name} is a Web Developer from {city}`
+        {name} is a Web Developer from {city}
       </h1>
     </div>
   );
